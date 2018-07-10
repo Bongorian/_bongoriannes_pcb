@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--*************************************-->
+<!--   File    : nes.fsproj              -->
+<!--   Format  : TopoR Project file      -->
+<!--   Version : 2                       -->
+<!--   Program : TopoR Lite 6.3.18019    -->
+<!--   Date    : Saturday, June 30, 2018 -->
+<!--   Time    : 00:18                   -->
+<!--*************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{F0801D95-6775-4EEC-A131-151ECBC8CDB5}</GUID>
+   <Documents>
+      <Section name="PCB">
+         <File path=".\bongoriannes.fsx" isopened="0" dateChange="2018-06-28 00:42:38"/>
+      </Section>
+      <Section name="AutoRouting">
+         <File path=".\autoroute_180627222639\bongoriannes_8483-65sa.fsb" isopened="0" dateChange="2018-06-27 22:39:01"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="C:\Users\bongorian\Desktop\bongoriannes\bongoriannes.dsn"/>
+      </Specctra>
+   </Import>
+</Project>
